@@ -1,12 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | KoalaGeo</title><link>https://koalageo.github.io/project/</link><atom:link href="https://koalageo.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 02 Jun 2020 23:22:47 +0100</lastBuildDate><image><url>https://koalageo.github.io/img/icon-32.png</url><title>Projects</title><link>https://koalageo.github.io/project/</link></image><item><title>Experience</title><link>https://koalageo.github.io/project/experience/</link><pubDate>Tue, 02 Jun 2020 23:22:47 +0100</pubDate><guid>https://koalageo.github.io/project/experience/</guid><description>&lt;h1 id="summary-experience">Summary Experience&lt;/h1>
-&lt;p>I&amp;rsquo;m a senior geologist with ten years’ international, multi-commodity exploration experience from grassroots to a pre-feasibility level working in the oil &amp;amp; gas, coal &amp;amp; minerals industries. His experience ranges from small cap junior exploration companies, government surveys, major mining companies and international consultancies. Work has included product management, software design and development management, interpretation and integration of geospatial data using GIS, 3D modelling and statistical packages, planning and implementation of exploration and resource drilling programs, drilling supervision, geosteering, supervision of 2D &amp;amp; 3D seismic acquisition, due diligence studies, geological mapping, sampling QA/QC; due diligence studies, target generation including regional prospectivity, program design and implementation for grassroots exploration. Petroleum work includes Haynesville Shale and Eagle Ford Shale in the US, Anadarko, Amadeus, McArthur, Otway, Galilee, Drummond, Bowen and Pre-Caspian Basins in Australia. Metalliferous work includes numerous deposit types for Copper, Gold, Iron and Uranium in Mongolia, Kazakhstan, Greenland, Indonesia, Ethiopia, Saudi Arabia, Namibia, Jordan, Chile and Australia.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | KoalaGeo</title><link>https://koalageo.github.io/project/</link><atom:link href="https://koalageo.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 02 Jun 2020 23:22:47 +0100</lastBuildDate><image><url>https://koalageo.github.io/img/icon-32.png</url><title>Projects</title><link>https://koalageo.github.io/project/</link></image><item><title>Experience</title><link>https://koalageo.github.io/project/experience/</link><pubDate>Tue, 02 Jun 2020 23:22:47 +0100</pubDate><guid>https://koalageo.github.io/project/experience/</guid><description>&lt;p>I&amp;rsquo;m a senior geologist with ten years’ international, multi-commodity exploration experience from grassroots to a pre-feasibility level working in the oil &amp;amp; gas, coal &amp;amp; minerals industries. His experience ranges from small cap junior exploration companies, government surveys, major mining companies and international consultancies. Work has included product management, software design and development management, interpretation and integration of geospatial data using GIS, 3D modelling and statistical packages, planning and implementation of exploration and resource drilling programs, drilling supervision, geosteering, supervision of 2D &amp;amp; 3D seismic acquisition, due diligence studies, geological mapping, sampling QA/QC; due diligence studies, target generation including regional prospectivity, program design and implementation for grassroots exploration. Petroleum work includes Haynesville Shale and Eagle Ford Shale in the US, Anadarko, Amadeus, McArthur, Otway, Galilee, Drummond, Bowen and Pre-Caspian Basins in Australia. Metalliferous work includes numerous deposit types for Copper, Gold, Iron and Uranium in Mongolia, Kazakhstan, Greenland, Indonesia, Ethiopia, Saudi Arabia, Namibia, Jordan, Chile and Australia.&lt;/p>
 &lt;h2>Table of Contents&lt;/h2>
 &lt;nav id="TableOfContents">
 &lt;ul>
-&lt;li>&lt;a href="#geosteering">Geosteering;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#digital">Digital&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#mineral-exploration">Mineral Exploration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#geological-mappingstructural-geology">Geological Mapping/Structural Geology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#geological-modelling--resource-estimation">Geological Modelling / Resource Estimation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#geosteering">Geosteering&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/nav>
-&lt;h1 id="key-experience-exploration">Key Experience: Exploration&lt;/h1>
+&lt;h2 id="digital">Digital&lt;/h2>
+&lt;ul>
+&lt;li>Setup GeoNetwork Metadata catalogue at Kenya Geodata Centre&lt;/li>
+&lt;li>Setup GeoNetwork Metadata catalogue at Nigeria Geodata Centre&lt;/li>
+&lt;li>Setup GeoNetwork Metadata catalogue at Rwanda Geodata Centre&lt;/li>
+&lt;li>GeoERA WP8 project support - using standards, setting up web services&lt;/li>
+&lt;li>Documentation using sphinx and docsify, on both Gitlab and Github pages&lt;/li>
+&lt;/ul>
+&lt;h2 id="mineral-exploration">Mineral Exploration&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>Confidential Client, Greenland, June 2014: Assistance with submission of tenement application.&lt;/p>
@@ -64,7 +75,7 @@
 &lt;a href="http://en.wikipedia.org/wiki/%C3%96mn%C3%B6govi_Province" target="_blank" rel="noopener">Ömnögovi&lt;/a>, Mongolia, June - September 2007: Cu-Au porphyry exploration, South Gobi, Mongolia: Mapping, sampling and trenching of various targets&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h1 id="key-experience--geological-mappingstructural-geology">Key Experience: Geological Mapping/Structural Geology&lt;/h1>
+&lt;h2 id="geological-mappingstructural-geology">Geological Mapping/Structural Geology&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>Urafields Ltd, Rössing East Uranium Project, Namibia, October 2011: Mapping of alaskites and pegmaticic intusives within the Damara Orogen sediments.&lt;/p>
@@ -89,7 +100,7 @@
 &lt;a href="http://en.wikipedia.org/wiki/%C3%96mn%C3%B6govi_Province" target="_blank" rel="noopener">Ömnögovi&lt;/a>, Mongolia, June - September 2007: Carboniferous-Devonian Volcaniclasitics &amp;amp; Mesozoic intrusives Southern Mongolia&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h1 id="key-experience--geological-modelling--resource-estimation">Key Experience: Geological Modelling / Resource Estimation&lt;/h1>
+&lt;h2 id="geological-modelling--resource-estimation">Geological Modelling / Resource Estimation&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>PT Antam, West Kalimantan Bauxite Tenements, Indonesia, October 2013 &amp;ndash; April 2014: Validation of existing database, geological modelling, resource estimation and JORC report.&lt;/p>
@@ -167,7 +178,7 @@
 &lt;p>Geoscience Australia, March 2014: Hydrocarbon prospectivity of the Drummond Basin&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="geosteering">Geosteering;&lt;/h2>
+&lt;h2 id="geosteering">Geosteering&lt;/h2>
 &lt;p>Remote geosteering of horizontal wells in Texas, Louisiana and Oklahoma.&lt;/p>
 &lt;table>
 &lt;thead>
