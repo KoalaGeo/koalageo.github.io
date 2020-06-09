@@ -2,8 +2,8 @@
   "name": "KoalaGeo ",
   "short_name": "KoalaGeo ",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu3f376b6f7560e035ae34c8163b9bc7a0_26304_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
